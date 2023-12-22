@@ -1,0 +1,6 @@
+.bg1 {
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
